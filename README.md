@@ -1,4 +1,19 @@
-## Hi there 👋
+## Greetings! Royce here 👋
+
+🔭 I’m currently working as an Integration Specialist using the following technologies:
+- C# .NET
+- Typescript
+- Azure Integration Services
+    - Functions
+    - Logic Apps
+    - API Management
+    - Service Bus
+    - Storage
+- Bicep
+- RDBMS: PostgreSQL, SQL Server, Oracle
+- [Temporal](https://temporal.io/)
+
+⚡ Fun fact: I am a Sith Lord 😎
 
 <!--
 **rlaput/rlaput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
